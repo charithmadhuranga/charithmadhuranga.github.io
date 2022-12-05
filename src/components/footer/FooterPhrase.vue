@@ -1,6 +1,6 @@
 <template>
   <span class="footer-phrase">
-    Aprendendo, Codando e Vivendo<br />um dia de cada vez.
+   Learn as much as I can<br />Create new things as much as I pleased.
   </span>
 </template>
 

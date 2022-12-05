@@ -1,6 +1,8 @@
 <template>
   <section class="home-presentation">
-    <h1 class="home-title">Designer, Desenvolvedor Full-Stack & Estudante</h1>
+    <h1 class="home-title">Fullstack Web Developer.......Mobile App Developer</h1>
+    <h1 class="home-title">Linux and Network Geek </h1>
+    <h1 class="home-title">Hardware Tinker</h1>
     <h2 class="home-subtitle"></h2>
   </section>
 </template>

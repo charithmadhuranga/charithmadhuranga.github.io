@@ -1,5 +1,5 @@
 <template>
-  <span class="copyright-text"> Design by © 2022 Pumba Developer </span>
+  <span class="copyright-text"> Design by © 2022 Charith Wijesundara </span>
 </template>
 
 <style scoped>
