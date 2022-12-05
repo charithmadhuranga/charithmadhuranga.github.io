@@ -1,0 +1,30 @@
+{
+  "name": "pumba-web-front",
+  "version": "0.0.0",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "postinstall": "npm run build",
+    "start": "node server.js",
+    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm run dev"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.4.0",
+    "axios": "^0.24.0",
+    "eslint": "^8.6.0",
+    "express": "^4.17.2",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.7.2"
+  }
+}
