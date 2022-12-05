@@ -1,6 +1,6 @@
 <template>
   <button class="btn-background">
-    <a :href="getImgUrl" target="_blank" class="btn-text">Baixar CV</a>
+    <a :href="getImgUrl" target="_blank" class="btn-text">My CV</a>
   </button>
 </template>
 
